@@ -1,0 +1,9 @@
+{
+    "name": "SuperHot",
+    "version_number": "1.1.0",
+    "website_url": "https://github.com/Lakatrazz/SuperHot",
+    "description": "Time moves when you move.",
+    "dependencies": [
+         "gnonme-BoneLib-3.0.0"
+    ]
+}
